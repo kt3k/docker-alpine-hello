@@ -1,4 +1,8 @@
-hello from alpine container
+# docker-alpine-hello
+
+[![Build Status](https://travis-ci.org/kt3k/docker-alpine-hello.svg?branch=master)](https://travis-ci.org/kt3k/docker-alpine-hello)
+
+> hello from alpine container
 
 ```console
 $ docker build . -t hello
